@@ -1,0 +1,26 @@
+h1{
+	text-align: left;
+}
+
+th {
+     font-weight: 800;
+}
+
+table{
+     font-family : Helvetica, sans-serif;
+}
+
+
+table {
+    border-collapse: collapse;
+	
+}
+table {
+  width: 70%;
+}
+
+th {
+    font-weight     : 800;
+    background-color: hsl(0, 100%, 75%);
+    color           : #ffffff;
+}
